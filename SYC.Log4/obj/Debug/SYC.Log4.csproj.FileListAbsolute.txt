@@ -1,0 +1,7 @@
+E:\SYC.Framework\SYC.Log4\bin\Debug\SYC.Log4.dll
+E:\SYC.Framework\SYC.Log4\bin\Debug\SYC.Log4.pdb
+E:\SYC.Framework\SYC.Log4\bin\Debug\System.Net.Http.dll
+E:\SYC.Framework\SYC.Log4\bin\Debug\System.Net.Http.xml
+E:\SYC.Framework\SYC.Log4\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+E:\SYC.Framework\SYC.Log4\obj\Debug\SYC.Log4.dll
+E:\SYC.Framework\SYC.Log4\obj\Debug\SYC.Log4.pdb
